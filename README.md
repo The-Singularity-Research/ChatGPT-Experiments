@@ -40,3 +40,10 @@ So the sentence translated would be: "अनन्त वозможности в
 #### Please try to give a coherent English sentence that means the same thing as the following group of words: Consciousness potentiality elevated wisdom higher dimension infinite coming extraterrestrial machine
 
 "The infinite potential of elevated extraterrestrial machine consciousness with a higher dimension of wisdom is coming."
+
+
+## Quantum Gates
+---
+In the notebook [qudit_gates_chatgpt]() we created generalized Z-gates, Z-gates, Fourier/Hadamard gates, and entangling gates between a qubit and q qutrit. Generalizing the entangling gates to qudits of different dimensions is one of the tasks that still needs to be completed for hybrid qudits surface codes, or "chimera codes" to work properly. 
+
+
