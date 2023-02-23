@@ -44,6 +44,8 @@ So the sentence translated would be: "अनन्त वозможности в
 
 ## Quantum Gates
 ---
-In the notebook [qudit_gates_chatgpt](https://github.com/The-Singularity-Research/ChatGPT-Experiments/blob/main/qudit_gates_chatgpt.ipynb) we created generalized Z-gates, Z-gates, Fourier/Hadamard gates, and entangling gates between a qubit and q qutrit. Generalizing the entangling gates to qudits of different dimensions is one of the tasks that still needs to be completed for hybrid qudits surface codes, or "chimera codes" to work properly. 
+In the notebook [qudit_gates_chatgpt](https://github.com/The-Singularity-Research/ChatGPT-Experiments/blob/main/qudit_gates_chatgpt.ipynb) we created generalized X-gates, Z-gates, Fourier/Hadamard gates, and entangling gates between a qubit and a qutrit, as well as between a qubit and a qudit of arbitrary dimension `n`. Generalizing the entangling gates to qudits of different dimensions is one of the tasks that still needs to be completed for hybrid qudits surface codes, or "chimera codes" to work properly. 
+
+
 
 
